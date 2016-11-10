@@ -1,8 +1,8 @@
 /*
  * UART.c
  *
- *  Created on: ??þ/??þ/????
- *      Author: abanoub
+ *  Created on: ??Ã¾/??Ã¾/????
+ *      Author: ibra
  */
 
 #include "UART.h"
@@ -10,7 +10,7 @@
 #include <math.h>
 
 #ifndef F_CPU
-#define F_CPU 8000000UL
+#define F_CPU 16000000UL
 #endif
 /****************************************************************************
  * Function    : UART_Init_void
